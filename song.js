@@ -1,3 +1,5 @@
+//  Homework #1: Data Types
+
 // create a constructor
 
 function FavSong(artist, otherArtists, album, producer, recorded, released, song, genre, popular) {
